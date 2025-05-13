@@ -14,3 +14,6 @@ function validContact(contact) {
         return false;
     }
 }
+
+
+console.log(validContact(" jfjfooooo"));
